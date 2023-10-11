@@ -1,2 +1,7 @@
 # Fabric_Store
-An e-commerce website for selling Fabrics
+
+A fully responsive e-commerce website for selling Fabrics
+
+## Deployed Link
+
+https://aifabricstore.netlify.app
