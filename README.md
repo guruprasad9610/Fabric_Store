@@ -4,7 +4,7 @@ A fully responsive e-commerce website for selling Fabrics. It offers a variety o
 
 ## Deployed Link
 
-https://aifabricstore.netlify.app/
+https://aifabricstore.netlify.app
 
 ## Key Features:
 
