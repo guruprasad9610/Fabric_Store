@@ -15,5 +15,3 @@ Product search and filtering options.
 Responsive design for mobile and desktop.
 Admin panel for managing products and orders.
 Inventory tracking and notifications.
-
-
